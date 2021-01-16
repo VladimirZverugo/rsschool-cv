@@ -11,7 +11,7 @@ My main goal is to get a job in frontend that is why i'm attending RSSchool. Fou
 |   Skills      |    Level       |
 |:-------------:|:---------------|
 | C#            | Able to create a simple app, unit tests|
-| C++           | Novice                |
+| C++           | Novice, basic OOP           |
 | JS (vanilla)  | In pocess of education:) |
 | Git           | In process of education              |
 | Python        | Novice in ML and math, able to develop a simple parser (shown below)|
