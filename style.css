@@ -1,0 +1,10 @@
+div {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgb(255, 255, 255);
+  /* color: white; */
+  /* font-size:100%; */
+  /* font-family: "Agency FB"; */
+}
